@@ -1,3 +1,6 @@
+//Eduardo DaniloRodriguez Portillo 
+//1646323
+
 class Nodo {
     public valor: number;
     public siguiente: Nodo | null = null;
